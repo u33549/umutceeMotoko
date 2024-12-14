@@ -8,7 +8,7 @@
 ---
 
 ## Vizyon
-Projemiz, web3 teknolojisini kullanarak veri güvenliğini ve kullanıcı gizliliğini en üst düzeye çıkaran, tamamen anonim ve özgür bir anket uygulaması geliştirmeyi hedeflemektedir. Bu uygulama sayesinde kullanıcılar, herhangi bir oturum açma işlemi yapmadan günlük en fazla *a*5** soru oluşturabilir ve her soruya en fazla 4 seçenek ekleyebilir. Kullanıcılar, oluşturdukları soruların cevap istatistiklerini kolayca görüntüleyebilir ve aynı zamanda diğer kullanıcıların anketlerine anonim olarak katılım sağlayabilir.
+Projemiz, web3 teknolojisini kullanarak veri güvenliğini ve kullanıcı gizliliğini en üst düzeye çıkaran, tamamen anonim ve özgür bir anket uygulaması geliştirmeyi hedeflemektedir. Bu uygulama sayesinde kullanıcılar, herhangi bir oturum açma işlemi yapmadan günlük en fazla **5** soru oluşturabilir ve her soruya dilediğince seçenek ekleyebilir. Kullanıcılar, oluşturdukları soruların cevap istatistiklerini kolayca görüntüleyebilir ve aynı zamanda diğer kullanıcıların anketlerine anonim olarak katılım sağlayabilir.
 
 ## Proje Detayları
 
