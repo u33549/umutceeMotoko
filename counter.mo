@@ -8,9 +8,6 @@ import Array "mo:base/Array";
 import Nat32 "mo:base/Nat32";
 import Hash "mo:base/Hash";
 
-
-
-
 actor VotingContract {
   func natHash(n: Nat): Hash.Hash {
     // Basit bir hash fonksiyonu: Nat değerinin 32-bit modunu alır
@@ -108,4 +105,10 @@ actor VotingContract {
                 
                 ?{
                     question = poll.question;
-                    options = poll.op
+                    options = poll.options;
+                    results = results;
+                };
+            };
+        };
+    };
+};
