@@ -40,3 +40,4 @@ Sayfanının dinamik veri güncelleme sistemi yok yani kendi değişiklikleriniz
 Projemizde özellikle web tarafında bir çok kütüphane kullanılmıştır çalıştırmadan önce **npm install** yapmanız tavsiye edilir. Bağımlılıklarla alakalı bir aksaklıkta bizimle iletişime girin.
 
 Proje Ubuntu 22.04.06 sürümünde geliştirildi.
+

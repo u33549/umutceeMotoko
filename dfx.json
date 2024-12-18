@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "AnoSurvey_backend": {
+      "main": "src/AnoSurvey_backend/main.mo",
+      "type": "motoko"
+    },
+    "AnoSurvey_frontend": {
+      "dependencies": [
+        "AnoSurvey_backend"
+      ],
+      "source": [
+        "src/AnoSurvey_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "AnoSurvey_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
